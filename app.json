@@ -1,0 +1,20 @@
+{
+  "name": "hkvl",
+  "description": "Deploy hkvl on Heroku.",
+  "keywords": [
+    "hkvl"
+  ],
+  "env": {
+    "UUID": {
+      "description": "hkvl UUID",
+      "value": "11174d1a-cbd6-4b6f-db1d-38d78b3f7177"
+    },
+    "PATH": {
+      "description": "hkvl UUID",
+      "value": "/bee"
+    }
+  },
+  "website": "https://github.com/",
+  "repository": "https://github.com/",
+  "stack": "container"
+}
